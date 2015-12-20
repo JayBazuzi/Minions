@@ -7,8 +7,6 @@
     <ProjectGuid>{5D8ECBE5-0149-4FF2-98B2-9ACA18BFFD44}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Fools.cs.Tests</RootNamespace>
-    <AssemblyName>Fools.cs.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
